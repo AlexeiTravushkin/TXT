@@ -1,10 +1,17 @@
 Bug report for example.
-Summary: Somwhere,somehow.. at all,it doesn't work
-Project: Vadim_course
-Version: 1.0
-Priority: P3(low)
-Browser: Opera
-Steps: we need to be strong and do it.
-Fact result: We've done it.
-Expected result: The same
-Additions: no
+                1.Bug overview:
+                    - summary
+
+                2. Environment:
+                    - platform
+                    - OS
+                    - browser
+
+                3. Bug details
+                    - steps to reproduce
+                    - expected result
+                    - actual result
+
+              4. Bug tracking:
+                  - severety
+                  - priority
