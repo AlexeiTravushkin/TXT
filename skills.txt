@@ -1,4 +1,4 @@
-
-Skills: accuracy,attentiveness, [D[D[D[D[D[D[D[D[D[D[D[D[D[D[D attentiveness,
-ability to ask questions, 
-ability to adequately describe bugs
+Skills:
+	       - accuracy,attentiveness,
+               - ability to ask questions, 
+               -ability to adequately describe bugs and more.

@@ -1,5 +1,5 @@
 Favorite film: Hard nut,
 favorite serial: la casa de papel,
-favorite food: fried chiken
-favorite season: spring [A[C[C[C,[B[D[D[D[D
-wish side: san-francisco[,[A[B[B[A[B
+favorite food: fried chiken,
+favorite season: spring, 
+wish side: san-francisco.
